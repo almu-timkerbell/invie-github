@@ -1,9 +1,16 @@
 ## Descripción
-Que ha cambiado
+Qué ha cambiado?
 
--[ ] Frontend?
--[ ] Backend?
--[ ] Configuración del server?
+-[ ] Frontend
+
+-[ ] Backend
+
+-[ ] Configuración del server
 
 ## Cómo puedo probar los cambios?
-en queé url y forma puedo ver el update
+En qué url y forma puedo ver el update
+
+
+
+
+
